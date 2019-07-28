@@ -7,8 +7,8 @@ body {
   top: 15%;
   background: linear-gradient(
     to right,
-    rgb(255, 0, 0),
-    rgb(255, 255, 0)
+    rgb(186, 69, 134),
+    rgb(73, 182, 182)
   ); /* Standard syntax */
 }
 
@@ -30,7 +30,7 @@ h3 {
 }
 
 .button {
-  background: linear-gradient(to right, red, yellow);
+  background: linear-gradient(to right, rgb(186, 69, 134), rgb(73, 182, 182));
   border: none;
   color: white;
   padding: 15px 32px;
